@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.4'
+gem 'ruby', 2.0.0
 # Use sqlite3 (local) postgresql (remote) as the database for Active Record
 group :development, :test do
   gem 'sqlite3'
